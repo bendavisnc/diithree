@@ -1,10 +1,8 @@
 # diithree
 
-A Clojure library designed to ... well, that part is up to you.
+A Work-in-progress d3.js wrapper for clojurescript.
+Heavily based off of Chris Granger's work on [jayq](https://github.com/ibdknox/jayq)
 
-## Usage
-
-FIXME
 
 ## License
 
